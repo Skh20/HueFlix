@@ -134,7 +134,7 @@
 - 영화 관련 사진 및 광고 영상등 시청가능
 
 ##### 평점
-![댓글작성(관리자)](https://github.com/Skh20/HueFlix/assets/148019116/06fe8968-e40f-48d0-b4c6-93aa8bc82bee)
+![평점댓글](https://github.com/Skh20/HueFlix/assets/148019116/408da72f-e7ac-4b10-ba0f-709d70755621)
 - 평점 등록 및 영화 관련 개인 평가 가능
 - 로그인계정 닉네임을 받아와 작성자에 표기
 - 별점은 Radio 박스로 받아와서 처리
