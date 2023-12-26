@@ -89,7 +89,7 @@
 - 로그인 후 정보 수정탭을 사용하여 하위 메뉴로 이동
 
 #### 내 정보 수정
-![회원정보수정](https://github.com/Skh20/HueFlix/assets/148019116/749a0a9a-653a-4660-8e8e-ff11231a60d6)
+![회원정보수정 비밀번호(안틀림)](https://github.com/Skh20/HueFlix/assets/148019116/d4390e06-340a-42af-b3b3-737fa7d2976f)
 
 - 개인 닉네임 패스워드를 변경할 수 있음
 
