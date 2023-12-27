@@ -52,6 +52,12 @@
          const urlParams = new URLSearchParams(window.location.search);
             const movieId = urlParams.get('movieId');
         $(document).ready(function() {
+
+	var currentPage = window.location.href;
+           if (currentPage.includes("/board/movieDetail/reply")) {
+               document.getElementById("reply").classList.add("active");
+           } 
+
             // URL에서 쿼리 매개변수 추출
             
             function calculateAverageRating() {
